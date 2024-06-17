@@ -573,5 +573,5 @@ You can use Postman to test the API. You can download the Postman documentation 
 ## Architecture
 
 <a href="">
-    <img src="https://drive.google.com/uc?id=17X1HSNHBMrwhLeZkww44bVur7iawMRvn"/>
+    <img src="https://drive.google.com/uc?id=1ReibUOEGvH34JE5rmbEuW_cLtGv6kwkH"/>
  </a>
